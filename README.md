@@ -2,7 +2,7 @@
 <h3 align="center">Researcher | Exploring the intersection of ML & Physics 🔱</h3>
 
 <p align="center">
-  <i>"Abhi to jee ke rha hu" — but also building, learning, and researching along the way.</i>
+  <i> "building, learning, and researching along the way" </i>
 </p>
 
 ---

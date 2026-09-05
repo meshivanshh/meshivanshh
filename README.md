@@ -1,43 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shivansh Shukla</h1>
-<h3 align="center">Researcher | Exploring the intersection of ML & Physics 🔱</h3>
+# Shivansh Shukla
 
-<p align="center">
-  <i> "Building, learning, and researching along the way" </i>
-</p>
+**Researcher — where machine learning meets physics.**
 
----
+I spend my time asking questions that sit at the edge of both fields — training models that learn the language of natural phenomena, and using physics to make those models honest.
 
-### 🧪 About Me
-
-- 🔭 Currently diving into **Machine Learning applied to Physics**
-- 🌱 Learning new tools and figuring out my stack as I go
-- 📄 Working on research — check out my [ML Physics Survey](https://github.com/meshivanshh/ml-physics-research)
-- 🌐 Portfolio: [athrvvv.netlify.app](https://athrvvv.netlify.app/)
-- 📍 Based in India
-- 💬 Ask me about physics, research ideas, or anything ML-related
+**→ [Read more about my work here](https://athrvvv.netlify.app/)**
 
 ---
 
-### 🚀 Current Focus
+## Currently
 
-| Project | Description |
-|---|---|
+Working on **[ml-physics-research](https://github.com/meshivanshh/ml-physics-research)** — a survey of how machine learning is reshaping physical modeling and simulation.
+
+Still shaping my toolkit. I'd rather build slowly with intention than rush into a stack that doesn't fit the questions I'm asking.
+
+| Project                                                                   | Description                                                      |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [ml-physics-research](https://github.com/meshivanshh/ml-physics-research) | Research work exploring machine learning applications in physics |
 
 ---
 
-### 📌 What's Next
+## Philosophy
 
-I'm still exploring which tools and languages fit my research workflow best — Python, simulations, data analysis — so this README (and my toolkit) will keep evolving. Stay tuned! 👀
+> Every equation is a story someone decided to trust. I want to know when to trust the data instead.
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://athrvvv.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/meshivanshh" target="_blank">💻 GitHub</a>
-</p>
+I care less about credentials and more about curiosity that survives contact with hard problems.
 
 ---
 
+## Find Me
+
+- **Portfolio** — [athrvvv.netlify.app](https://athrvvv.netlify.app/)
+- **GitHub** — [@meshivanshh](https://github.com/meshivanshh)
+- **Based in** — India
+
+---
+
+<p align="center"><i>Still early. Still building. Still asking.</i></p>

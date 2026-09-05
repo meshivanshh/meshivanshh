@@ -41,6 +41,3 @@ I'm still exploring which tools and languages fit my research workflow best — 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meshivanshh&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
